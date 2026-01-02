@@ -1,0 +1,18 @@
+.editorWrapper {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  transition: border-color 0.2s ease;
+
+  &:focus-within {
+    border-color: #10b981;
+  }
+}
+
+.editor {
+  textarea {
+    outline: none !important;
+  }
+
+  pre {
+    background: transparent !important;
+  }
+}
