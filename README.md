@@ -4,7 +4,7 @@ A minimalist, high-performance pastebin service for sharing code snippets secure
 
 ## Prerequisites
 - **Git**
-- **Go 1.25+**
+- **Go 1.22**
 - **Node.js 18+ & npm**
 - **Docker**
 
